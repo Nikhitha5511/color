@@ -34,3 +34,5 @@ padding: 10px 0: Adds 10 pixels of padding at the top and bottom of the containe
 * background: Applies a linear gradient background color to the markers.
 * box-shadow: Adds a shadow effect to the markers, giving them a 3D appearance. The box-shadow property takes four values: horizontal offset, vertical offset, blur radius, and color.
 
+# Hosted Link
+https://nikhitha5511.github.io/color/
